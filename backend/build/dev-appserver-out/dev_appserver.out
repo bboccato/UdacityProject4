@@ -19,3 +19,12 @@ Mar 02, 2019 11:36:05 PM com.google.appengine.tools.development.AbstractModule s
 INFO: The admin console is running at http://localhost:8080/_ah/admin
 Mar 02, 2019 8:36:05 PM com.google.appengine.tools.development.DevAppServerImpl doStart
 INFO: Dev App Server is now running
+Mar 02, 2019 9:09:28 PM com.google.appengine.tools.development.JettyContainerService$ScannerListener fileChanged
+INFO: /Users/biancab/Documents/Android/FinalProject/backend/build/exploded-backend/WEB-INF/appengine-web.xml updated, reloading the webapp!
+Mar 02, 2019 9:09:28 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
+INFO: Overwriting system property key 'java.util.logging.config.file', value '/Users/biancab/Downloads/google-cloud-sdk/platform/google_appengine/google/appengine/tools/java/config/sdk/logging.properties' with value 'WEB-INF/logging.properties' from '/Users/biancab/Documents/Android/FinalProject/backend/build/exploded-backend/WEB-INF/appengine-web.xml'
+Mar 02, 2019 9:09:28 PM com.google.appengine.tools.development.IsolatedAppClassLoader checkWorkingDirectory
+WARNING: Your working directory, (/Users/biancab/Documents/Android/FinalProject/backend) is not equal to your 
+web application root (/Users/biancab/Documents/Android/FinalProject/backend/build/exploded-backend)
+You will not be able to access files from your working directory on the production server.
+
